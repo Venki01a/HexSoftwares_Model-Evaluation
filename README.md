@@ -44,11 +44,11 @@ The dataset includes various attributes that describe employees' background, wor
 
 ## 🔬 Data Preprocessing
 
-✅ Removed unnecessary and duplicate columns
-✅ Encoded categorical variables (e.g., Gender, Department, OverTime)
-✅ Checked for missing values and ensured data consistency
-✅ Split data into training and testing sets
-✅ Scaled numerical features for better model performance
+* Removed unnecessary and duplicate columns
+* Encoded categorical variables (e.g., Gender, Department, OverTime)
+* Checked for missing values and ensured data consistency
+* Split data into training and testing sets
+* Scaled numerical features for better model performance
 
 ---
 
