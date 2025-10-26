@@ -125,7 +125,6 @@ This analysis emphasizes that **employee retention strategies must go beyond sal
 * Apply hyperparameter tuning to improve logistic regression performance
 * Add interactive dashboards for HR visualization
 * Incorporate additional factors like training data and engagement scores
-* Compare logistic regression results with ensemble models (Random Forest, XGBoost) in future iterations
 
 ---
 
